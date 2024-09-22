@@ -1,0 +1,15 @@
+appConfig:
+  language: en
+  layout: auto
+  iconSize: medium
+pageInfo:
+  title: Dashy
+sections:
+  - name: Test
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items: []

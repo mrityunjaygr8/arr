@@ -1,0 +1,43 @@
+2024-09-21T09:18:02.386Z [info]: Commit Tag: 1.9.2 
+2024-09-21T09:18:02.752Z [info]: Starting Overseerr version 1.9.2 
+2024-09-21T09:18:03.845Z [info][Notifications]: Registered notification agents 
+2024-09-21T09:18:03.849Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-21T09:18:03.851Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":1,"enabled":true,"isBuiltIn":true,"order":0}}
+2024-09-21T09:18:03.866Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":2,"enabled":true,"isBuiltIn":true,"order":1}}
+2024-09-21T09:18:03.874Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":3,"enabled":true,"isBuiltIn":true,"order":2}}
+2024-09-21T09:18:03.882Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":4,"enabled":true,"isBuiltIn":true,"order":3}}
+2024-09-21T09:18:03.895Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":5,"enabled":true,"isBuiltIn":true,"order":4}}
+2024-09-21T09:18:03.903Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":6,"enabled":true,"isBuiltIn":true,"order":5}}
+2024-09-21T09:18:03.910Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":7,"enabled":true,"isBuiltIn":true,"order":6}}
+2024-09-21T09:18:03.918Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":8,"enabled":true,"isBuiltIn":true,"order":7}}
+2024-09-21T09:18:03.925Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":9,"enabled":true,"isBuiltIn":true,"order":8}}
+2024-09-21T09:18:03.934Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":10,"enabled":true,"isBuiltIn":true,"order":9}}
+2024-09-21T09:18:03.941Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":11,"enabled":true,"isBuiltIn":true,"order":10}}
+2024-09-21T09:18:03.948Z [info][Discover Slider]: Creating built-in discovery slider {"slider":{"type":12,"enabled":true,"isBuiltIn":true,"order":11}}
+2024-09-21T09:18:04.070Z [info][Server]: Server ready on port 5055 
+2024-09-21T09:19:48.313Z [info]: Commit Tag: 1.9.2 
+2024-09-21T09:19:48.725Z [info]: Starting Overseerr version 1.9.2 
+2024-09-21T09:19:49.585Z [info][Notifications]: Registered notification agents 
+2024-09-21T09:19:49.589Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-21T09:19:49.706Z [info][Server]: Server ready on port 5055 
+2024-09-21T09:20:30.117Z [info]: Commit Tag: 1.9.2 
+2024-09-21T09:20:30.584Z [info]: Starting Overseerr version 1.9.2 
+2024-09-21T09:20:31.676Z [info][Notifications]: Registered notification agents 
+2024-09-21T09:20:31.682Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-21T09:20:31.814Z [info][Server]: Server ready on port 5055 
+2024-09-21T09:30:34.339Z [debug][API]: Something went wrong retrieving backdrops {"errorMessage":"[TMDB] Failed to fetch all trending: connect ETIMEDOUT 49.44.79.236:443"}
+2024-09-21T11:00:20.203Z [info]: Commit Tag: 1.9.2 
+2024-09-21T11:00:20.995Z [info]: Starting Overseerr version 1.9.2 
+2024-09-21T11:00:22.621Z [info][Notifications]: Registered notification agents 
+2024-09-21T11:00:22.628Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-21T11:00:22.858Z [info][Server]: Server ready on port 5055 
+2024-09-21T13:36:48.131Z [info]: Commit Tag: 1.9.2 
+2024-09-21T13:36:48.773Z [info]: Starting Overseerr version 1.9.2 
+2024-09-21T13:36:50.062Z [info][Notifications]: Registered notification agents 
+2024-09-21T13:36:50.066Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-21T13:36:50.192Z [info][Server]: Server ready on port 5055 
+2024-09-21T16:07:11.605Z [info]: Commit Tag: 1.9.2 
+2024-09-21T16:07:12.392Z [info]: Starting Overseerr version 1.9.2 
+2024-09-21T16:07:14.063Z [info][Notifications]: Registered notification agents 
+2024-09-21T16:07:14.070Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-21T16:07:14.219Z [info][Server]: Server ready on port 5055 

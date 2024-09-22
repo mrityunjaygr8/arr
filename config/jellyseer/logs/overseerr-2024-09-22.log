@@ -1,0 +1,15 @@
+2024-09-22T07:59:57.949Z [info]: Commit Tag: 1.9.2 
+2024-09-22T07:59:58.687Z [info]: Starting Overseerr version 1.9.2 
+2024-09-22T08:00:00.361Z [info][Notifications]: Registered notification agents 
+2024-09-22T08:00:00.370Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-22T08:00:00.553Z [info][Server]: Server ready on port 5055 
+2024-09-22T09:07:19.296Z [info]: Commit Tag: 1.9.2 
+2024-09-22T09:07:20.053Z [info]: Starting Overseerr version 1.9.2 
+2024-09-22T09:07:21.735Z [info][Notifications]: Registered notification agents 
+2024-09-22T09:07:21.741Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-22T09:07:21.889Z [info][Server]: Server ready on port 5055 
+2024-09-22T10:31:24.669Z [info]: Commit Tag: 1.9.2 
+2024-09-22T10:31:25.362Z [info]: Starting Overseerr version 1.9.2 
+2024-09-22T10:31:26.878Z [info][Notifications]: Registered notification agents 
+2024-09-22T10:31:26.883Z [info][Server]: Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet 
+2024-09-22T10:31:27.027Z [info][Server]: Server ready on port 5055 

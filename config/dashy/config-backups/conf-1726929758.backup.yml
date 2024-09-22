@@ -1,0 +1,30 @@
+appConfig:
+  language: en
+  layout: auto
+  iconSize: medium
+pageInfo:
+  title: Dashy
+sections:
+  - name: Test
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
+    items:
+      - title: QBittorrent
+        url: http://192.168.29.200:8080
+        target: newtab
+        id: 0_416_qbittorrent
+      - title: Jellyfin
+        url: http://192.168.29.200:8096
+        target: newtab
+        id: 1_416_jellyfin
+      - title: Sonarr
+        url: 192.168.29.200:8989
+        id: 2_416_sonarr
+      - title: Radarr
+        url: http://192.168.29.200:6767
+        target: newtab
+        id: 3_416_radarr

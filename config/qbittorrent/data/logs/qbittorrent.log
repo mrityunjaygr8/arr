@@ -1,0 +1,556 @@
+(N) 2024-09-21T14:31:13 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:31:13 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:31:13 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:31:13 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:31:13 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:31:13 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:31:13 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:31:13 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:31:13 - Anonymous mode: OFF
+(I) 2024-09-21T14:31:13 - Encryption support: ON
+(I) 2024-09-21T14:31:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:31:13 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:31:13 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-21T14:31:13 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-21T14:31:13 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:31:13 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:31:13 - UPnP/NAT-PMP support: ON
+(W) 2024-09-21T14:31:13 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2024-09-21T14:31:13 - Using built-in WebUI.
+(N) 2024-09-21T14:31:13 - WebUI translation for selected locale (en_US) has been successfully loaded.
+(N) 2024-09-21T14:31:13 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T14:31:13 - Detected external IP. IP: "49.36.57.158"
+(I) 2024-09-21T14:31:14 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(I) 2024-09-21T14:31:14 - Successfully updated IP geolocation database.
+(W) 2024-09-21T14:33:35 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:33:39 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:33:49 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:33:49 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T14:33:49 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T14:38:18 - WebAPI login failure. Reason: invalid credentials, attempt count: 4, IP: ::ffff:192.168.29.11, username: admin
+(N) 2024-09-21T14:38:54 - qBittorrent termination initiated
+(N) 2024-09-21T14:38:54 - qBittorrent is now ready to exit
+(N) 2024-09-21T14:38:59 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:38:59 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:38:59 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:38:59 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:38:59 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:38:59 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:38:59 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:38:59 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:38:59 - Anonymous mode: OFF
+(I) 2024-09-21T14:38:59 - Encryption support: ON
+(I) 2024-09-21T14:38:59 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:38:59 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:38:59 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-21T14:38:59 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-21T14:38:59 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:38:59 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:38:59 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T14:38:59 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T14:38:59 - Using built-in WebUI.
+(N) 2024-09-21T14:38:59 - WebUI translation for selected locale (en_US) has been successfully loaded.
+(N) 2024-09-21T14:38:59 - WebUI: Now listening on IP: *, port: 8080
+(N) 2024-09-21T14:39:39 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-21T14:40:14 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T14:40:14 - Couldn't load WebUI translation for selected locale (en).
+(W) 2024-09-21T14:40:27 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:40:38 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:40:49 - WebAPI login failure. Reason: invalid credentials, attempt count: 3, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:41:35 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T14:41:35 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-21T14:41:55 - qBittorrent termination initiated
+(N) 2024-09-21T14:41:55 - qBittorrent is now ready to exit
+(N) 2024-09-21T14:42:00 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:42:00 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:42:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:42:00 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:42:00 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:42:00 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:42:00 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:42:00 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:42:00 - Anonymous mode: OFF
+(I) 2024-09-21T14:42:00 - Encryption support: ON
+(I) 2024-09-21T14:42:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:42:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:42:00 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-21T14:42:00 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-21T14:42:00 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:42:00 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:42:00 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T14:42:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T14:42:00 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T14:42:00 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T14:42:00 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T14:42:00 - Detected external IP. IP: "49.36.57.158"
+(W) 2024-09-21T14:42:14 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.29.11, username: admin
+(W) 2024-09-21T14:42:19 - WebAPI login failure. Reason: invalid credentials, attempt count: 2, IP: ::ffff:192.168.29.11, username: admin
+(N) 2024-09-21T14:42:57 - qBittorrent termination initiated
+(N) 2024-09-21T14:42:58 - qBittorrent is now ready to exit
+(N) 2024-09-21T14:43:16 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:43:16 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:43:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:43:16 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:43:16 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:43:16 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:43:16 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:43:16 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:43:16 - Anonymous mode: OFF
+(I) 2024-09-21T14:43:16 - Encryption support: ON
+(I) 2024-09-21T14:43:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:43:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:43:16 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-21T14:43:16 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-21T14:43:16 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:43:16 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:43:16 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T14:43:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T14:43:16 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T14:43:16 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T14:43:16 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T14:43:16 - Detected external IP. IP: "49.36.57.158"
+(W) 2024-09-21T14:43:27 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.29.11, username: admin
+(N) 2024-09-21T14:43:49 - qBittorrent termination initiated
+(N) 2024-09-21T14:43:49 - qBittorrent is now ready to exit
+(N) 2024-09-21T14:43:53 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:43:53 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:43:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:43:53 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:43:53 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:43:53 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:43:53 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:43:53 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:43:53 - Anonymous mode: OFF
+(I) 2024-09-21T14:43:53 - Encryption support: ON
+(I) 2024-09-21T14:43:53 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T14:43:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T14:43:53 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T14:43:53 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T14:43:53 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T14:43:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:43:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:43:53 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-21T14:43:53 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-21T14:43:53 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:43:53 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:43:54 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T14:44:16 - qBittorrent termination initiated
+(N) 2024-09-21T14:44:16 - qBittorrent is now ready to exit
+(N) 2024-09-21T14:44:52 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:44:52 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:44:52 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:44:52 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:44:52 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:44:52 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:44:52 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:44:52 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:44:52 - Anonymous mode: OFF
+(I) 2024-09-21T14:44:52 - Encryption support: ON
+(I) 2024-09-21T14:44:52 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T14:44:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T14:44:52 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T14:44:52 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T14:44:52 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T14:44:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:44:52 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:44:52 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-21T14:44:52 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-21T14:44:52 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:44:52 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:44:52 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T14:44:57 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-21T14:45:45 - WebAPI login success. IP: ::ffff:192.168.29.11
+(W) 2024-09-21T14:47:28 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T14:47:28 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-21T14:48:21 - qBittorrent termination initiated
+(N) 2024-09-21T14:48:21 - qBittorrent is now ready to exit
+(N) 2024-09-21T14:50:28 - qBittorrent v4.6.7 started
+(N) 2024-09-21T14:50:28 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T14:50:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T14:50:28 - Peer ID: "-qB4670-"
+(I) 2024-09-21T14:50:28 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T14:50:28 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T14:50:28 - Local Peer Discovery support: ON
+(I) 2024-09-21T14:50:28 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T14:50:28 - Anonymous mode: OFF
+(I) 2024-09-21T14:50:28 - Encryption support: ON
+(I) 2024-09-21T14:50:28 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T14:50:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T14:50:28 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T14:50:28 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T14:50:28 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T14:50:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T14:50:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T14:50:28 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/51445"
+(I) 2024-09-21T14:50:28 - Successfully listening on IP. IP: "172.18.0.2". Port: "UDP/51445"
+(I) 2024-09-21T14:50:28 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T14:50:28 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T14:50:28 - Detected external IP. IP: "49.36.57.158"
+(W) 2024-09-21T14:53:04 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T14:53:04 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-21T15:10:58 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-09-21T15:12:31 - qBittorrent termination initiated
+(N) 2024-09-21T15:12:31 - qBittorrent is now ready to exit
+(N) 2024-09-21T15:12:36 - qBittorrent v4.6.7 started
+(N) 2024-09-21T15:12:36 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T15:12:36 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T15:12:36 - Peer ID: "-qB4670-"
+(I) 2024-09-21T15:12:36 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T15:12:36 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T15:12:36 - Local Peer Discovery support: ON
+(I) 2024-09-21T15:12:36 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T15:12:36 - Anonymous mode: OFF
+(I) 2024-09-21T15:12:36 - Encryption support: ON
+(I) 2024-09-21T15:12:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T15:12:36 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T15:12:36 - Successfully listening on IP. IP: "172.18.0.8". Port: "TCP/51445"
+(I) 2024-09-21T15:12:36 - Successfully listening on IP. IP: "172.18.0.8". Port: "UDP/51445"
+(I) 2024-09-21T15:12:36 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T15:12:36 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T15:12:36 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T15:12:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T15:12:36 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T15:12:36 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T15:12:36 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T15:12:36 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T15:14:01 - WebAPI login success. IP: ::ffff:172.18.0.4
+(W) 2024-09-21T15:15:12 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T15:15:12 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-21T15:20:28 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2024-09-21T15:21:05 - Added new torrent. Torrent: "Severance - S01 - Mp4 x264 AC3 1080p"
+(N) 2024-09-21T15:21:26 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-21T15:21:34 - Torrent paused. Torrent: "Severance - S01 - Mp4 x264 AC3 1080p"
+(N) 2024-09-21T15:23:20 - Added new torrent. Torrent: "Dune.Part.Two.2024.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+(N) 2024-09-21T15:33:25 - Torrent paused. Torrent: "Dune.Part.Two.2024.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+(N) 2024-09-21T15:34:22 - Removed torrent and deleted its content. Torrent: "Dune.Part.Two.2024.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR"
+(N) 2024-09-21T15:34:45 - Added new torrent. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:38:33 - Torrent download finished. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:39:13 - Torrent paused. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:40:33 - Removed torrent and deleted its content. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:40:37 - Removed torrent and deleted its content. Torrent: "Severance - S01 - Mp4 x264 AC3 1080p"
+(N) 2024-09-21T15:41:40 - Added new torrent. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:45:04 - Torrent download finished. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:49:47 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2024-09-21T15:51:06 - Torrent paused. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:52:29 - Detected an attempt to add a duplicate torrent. Merging of trackers is disabled. Torrent: Dune Part Two (2024) [1080p] [BluRay]
+(N) 2024-09-21T15:52:31 - Added new torrent. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T15:53:01 - Torrent paused. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T15:53:32 - Torrent resumed. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T15:53:32 - Torrent resumed. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:53:44 - Removed torrent and deleted its content. Torrent: "Dune Part Two (2024) [1080p] [BluRay]"
+(N) 2024-09-21T15:54:50 - Added new torrent. Torrent: "Severance S01 1080p WEBRip x265"
+(N) 2024-09-21T15:55:12 - Torrent paused. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T15:55:12 - Torrent paused. Torrent: "Severance S01 1080p WEBRip x265"
+(N) 2024-09-21T15:55:21 - Enqueued torrent move. Torrent: "Severance S01 1080p WEBRip x265". Source: "/data/torrents/tv-sonarr". Destination: "/data/torrents/tv"
+(N) 2024-09-21T15:55:21 - Start moving torrent. Torrent: "Severance S01 1080p WEBRip x265". Destination: "/data/torrents/tv"
+(N) 2024-09-21T15:55:22 - Moved torrent successfully. Torrent: "Severance S01 1080p WEBRip x265". Destination: "/data/torrents/tv"
+(N) 2024-09-21T15:55:36 - Torrent resumed. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T15:55:36 - Torrent resumed. Torrent: "Severance S01 1080p WEBRip x265"
+(N) 2024-09-21T15:59:37 - Torrent paused. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T16:13:45 - Torrent download finished. Torrent: "Severance S01 1080p WEBRip x265"
+(N) 2024-09-21T16:14:46 - Torrent paused. Torrent: "Severance S01 1080p WEBRip x265"
+(N) 2024-09-21T16:14:46 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Severance S01 1080p WEBRip x265".
+(N) 2024-09-21T16:19:01 - Removed torrent and deleted its content. Torrent: "Severance S01 1080p WEBRip x265"
+(N) 2024-09-21T16:20:53 - Torrent resumed. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T16:28:48 - qBittorrent termination initiated
+(N) 2024-09-21T16:28:53 - qBittorrent is now ready to exit
+(N) 2024-09-21T16:28:58 - qBittorrent v4.6.7 started
+(N) 2024-09-21T16:28:58 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T16:28:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T16:28:58 - Peer ID: "-qB4670-"
+(I) 2024-09-21T16:28:58 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T16:28:58 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T16:28:58 - Local Peer Discovery support: ON
+(I) 2024-09-21T16:28:58 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T16:28:58 - Anonymous mode: OFF
+(I) 2024-09-21T16:28:58 - Encryption support: ON
+(I) 2024-09-21T16:28:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T16:28:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T16:28:58 - Successfully listening on IP. IP: "172.18.0.6". Port: "TCP/51445"
+(I) 2024-09-21T16:28:58 - Successfully listening on IP. IP: "172.18.0.6". Port: "UDP/51445"
+(I) 2024-09-21T16:28:58 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T16:28:58 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T16:28:58 - UPnP/NAT-PMP support: ON
+(N) 2024-09-21T16:28:58 - Restored torrent. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(I) 2024-09-21T16:28:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T16:28:58 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T16:28:58 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T16:28:58 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T16:28:58 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T16:29:14 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-21T16:29:32 - WebAPI login success. IP: ::ffff:172.18.0.7
+(N) 2024-09-21T16:30:02 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-09-21T16:30:11 - qBittorrent termination initiated
+(N) 2024-09-21T16:30:15 - qBittorrent is now ready to exit
+(N) 2024-09-21T16:30:20 - qBittorrent v4.6.7 started
+(N) 2024-09-21T16:30:20 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T16:30:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T16:30:20 - Peer ID: "-qB4670-"
+(I) 2024-09-21T16:30:20 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T16:30:20 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T16:30:20 - Local Peer Discovery support: ON
+(I) 2024-09-21T16:30:20 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T16:30:20 - Anonymous mode: OFF
+(I) 2024-09-21T16:30:20 - Encryption support: ON
+(I) 2024-09-21T16:30:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T16:30:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T16:30:20 - Successfully listening on IP. IP: "172.18.0.6". Port: "TCP/51445"
+(I) 2024-09-21T16:30:20 - Successfully listening on IP. IP: "172.18.0.6". Port: "UDP/51445"
+(I) 2024-09-21T16:30:20 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T16:30:20 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T16:30:20 - UPnP/NAT-PMP support: ON
+(N) 2024-09-21T16:30:20 - Restored torrent. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(I) 2024-09-21T16:30:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T16:30:20 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T16:30:20 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T16:30:20 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T16:30:20 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T16:30:22 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-09-21T16:30:22 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2024-09-21T16:30:34 - WebAPI login success. IP: ::ffff:192.168.29.11
+(W) 2024-09-21T16:32:56 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T16:32:56 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-21T16:42:09 - Torrent download finished. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T16:43:19 - Torrent paused. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T16:43:19 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN".
+(N) 2024-09-21T16:43:22 - Removed torrent and deleted its content. Torrent: "Dune Part Two 2024 1080p BluRay x264-ROEN"
+(N) 2024-09-21T19:02:04 - qBittorrent termination initiated
+(N) 2024-09-21T19:02:05 - qBittorrent is now ready to exit
+(N) 2024-09-21T19:06:45 - qBittorrent v4.6.7 started
+(N) 2024-09-21T19:06:45 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T19:06:45 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T19:06:45 - Peer ID: "-qB4670-"
+(I) 2024-09-21T19:06:45 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T19:06:45 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T19:06:45 - Local Peer Discovery support: ON
+(I) 2024-09-21T19:06:45 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T19:06:45 - Anonymous mode: OFF
+(I) 2024-09-21T19:06:45 - Encryption support: ON
+(I) 2024-09-21T19:06:45 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T19:06:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T19:06:45 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T19:06:45 - Successfully listening on IP. IP: "172.18.0.6". Port: "TCP/51445"
+(I) 2024-09-21T19:06:45 - Successfully listening on IP. IP: "172.18.0.6". Port: "UDP/51445"
+(I) 2024-09-21T19:06:45 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T19:06:45 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T19:06:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T19:06:45 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T19:06:45 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T19:06:45 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T19:06:45 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T19:07:19 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2024-09-21T19:07:19 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-09-21T19:08:27 - WebAPI login success. IP: ::ffff:192.168.29.69
+(W) 2024-09-21T19:09:21 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T19:09:21 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(I) 2024-09-21T19:14:16 - Python detected, executable name: 'python3', version: 3.11.9
+(N) 2024-09-21T19:31:49 - Added new torrent. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi"
+(N) 2024-09-21T19:32:02 - Added new torrent. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen"
+(N) 2024-09-21T19:46:49 - Torrent paused. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen"
+(N) 2024-09-21T19:49:21 - Torrent paused. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi"
+(N) 2024-09-21T19:49:36 - Torrent resumed. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi"
+(N) 2024-09-21T20:22:46 - Torrent download finished. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi"
+(N) 2024-09-21T20:23:45 - Torrent paused. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi"
+(N) 2024-09-21T20:23:45 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi".
+(N) 2024-09-21T20:27:03 - Torrent resumed. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen"
+(N) 2024-09-21T20:29:49 - Added new torrent. Torrent: "Dune.2021.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2024-09-21T20:31:16 - Added new torrent. Torrent: "Dune 2021 1080p BluRay x265"
+(N) 2024-09-21T20:31:22 - Removed torrent and deleted its content. Torrent: "Dune.2021.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT"
+(N) 2024-09-21T20:33:37 - Torrent paused. Torrent: "Dune 2021 1080p BluRay x265"
+(N) 2024-09-21T21:07:45 - Torrent download finished. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen"
+(N) 2024-09-21T21:08:45 - Torrent paused. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen"
+(N) 2024-09-21T21:08:45 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen".
+(N) 2024-09-21T21:08:46 - Torrent resumed. Torrent: "Dune 2021 1080p BluRay x265"
+(N) 2024-09-21T21:11:22 - Torrent download finished. Torrent: "Dune 2021 1080p BluRay x265"
+(N) 2024-09-21T21:12:25 - Torrent paused. Torrent: "Dune 2021 1080p BluRay x265"
+(N) 2024-09-21T21:12:25 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Dune 2021 1080p BluRay x265".
+(N) 2024-09-21T21:12:53 - Removed torrent and deleted its content. Torrent: "Dune 2021 1080p BluRay x265"
+(N) 2024-09-21T21:36:15 - Removed torrent and deleted its content. Torrent: "Foundation (2021) S01 S01 (1080p ATVP WEB-DL x265 HEVC 10bi"
+(N) 2024-09-21T21:36:31 - Removed torrent and deleted its content. Torrent: "Foundation (2021) S02 S02 (1080p ATVP WEB-DL x265 HEVC 10bit EAC3 5.1 Silen"
+(N) 2024-09-21T21:37:01 - qBittorrent termination initiated
+(N) 2024-09-21T21:37:02 - qBittorrent is now ready to exit
+(N) 2024-09-21T21:37:08 - qBittorrent v4.6.7 started
+(N) 2024-09-21T21:37:08 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T21:37:08 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T21:37:08 - Peer ID: "-qB4670-"
+(I) 2024-09-21T21:37:08 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T21:37:08 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T21:37:08 - Local Peer Discovery support: ON
+(I) 2024-09-21T21:37:08 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T21:37:08 - Anonymous mode: OFF
+(I) 2024-09-21T21:37:08 - Encryption support: ON
+(I) 2024-09-21T21:37:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T21:37:08 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T21:37:08 - Successfully listening on IP. IP: "172.18.0.7". Port: "TCP/51445"
+(I) 2024-09-21T21:37:08 - Successfully listening on IP. IP: "172.18.0.7". Port: "UDP/51445"
+(I) 2024-09-21T21:37:08 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T21:37:08 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T21:37:08 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T21:37:08 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T21:37:08 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T21:37:08 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T21:37:08 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T21:37:08 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T21:37:12 - WebAPI login success. IP: ::ffff:172.18.0.4
+(N) 2024-09-21T21:37:12 - WebAPI login success. IP: ::ffff:172.18.0.3
+(W) 2024-09-21T21:39:44 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T21:39:44 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-21T22:48:49 - qBittorrent termination initiated
+(N) 2024-09-21T22:48:49 - qBittorrent is now ready to exit
+(N) 2024-09-21T22:48:54 - qBittorrent v4.6.7 started
+(N) 2024-09-21T22:48:54 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-21T22:48:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-21T22:48:54 - Peer ID: "-qB4670-"
+(I) 2024-09-21T22:48:54 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-21T22:48:54 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-21T22:48:54 - Local Peer Discovery support: ON
+(I) 2024-09-21T22:48:54 - Peer Exchange (PeX) support: ON
+(I) 2024-09-21T22:48:54 - Anonymous mode: OFF
+(I) 2024-09-21T22:48:54 - Encryption support: ON
+(I) 2024-09-21T22:48:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-21T22:48:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-21T22:48:54 - Successfully listening on IP. IP: "172.18.0.7". Port: "TCP/51445"
+(I) 2024-09-21T22:48:54 - Successfully listening on IP. IP: "172.18.0.7". Port: "UDP/51445"
+(I) 2024-09-21T22:48:54 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-21T22:48:54 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-21T22:48:54 - UPnP/NAT-PMP support: ON
+(I) 2024-09-21T22:48:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-21T22:48:54 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-21T22:48:54 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-21T22:48:54 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-21T22:48:55 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-21T22:49:42 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2024-09-21T22:50:12 - WebAPI login success. IP: ::ffff:172.18.0.4
+(W) 2024-09-21T22:51:30 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-21T22:51:30 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-22T12:19:25 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-22T13:15:16 - qBittorrent termination initiated
+(N) 2024-09-22T13:15:17 - qBittorrent is now ready to exit
+(N) 2024-09-22T13:15:22 - qBittorrent v4.6.7 started
+(N) 2024-09-22T13:15:22 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-22T13:15:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-22T13:15:22 - Peer ID: "-qB4670-"
+(I) 2024-09-22T13:15:22 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-22T13:15:22 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-22T13:15:22 - Local Peer Discovery support: ON
+(I) 2024-09-22T13:15:22 - Peer Exchange (PeX) support: ON
+(I) 2024-09-22T13:15:22 - Anonymous mode: OFF
+(I) 2024-09-22T13:15:22 - Encryption support: ON
+(I) 2024-09-22T13:15:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-22T13:15:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-22T13:15:22 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/51445"
+(I) 2024-09-22T13:15:22 - Successfully listening on IP. IP: "172.18.0.2". Port: "UDP/51445"
+(I) 2024-09-22T13:15:22 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-22T13:15:22 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-22T13:15:22 - UPnP/NAT-PMP support: ON
+(I) 2024-09-22T13:15:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-22T13:15:22 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-22T13:15:22 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-22T13:15:22 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-22T13:15:23 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-22T13:15:25 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2024-09-22T13:15:27 - WebAPI login success. IP: ::ffff:172.18.0.7
+(W) 2024-09-22T13:17:58 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-22T13:17:58 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-22T13:29:27 - qBittorrent termination initiated
+(N) 2024-09-22T13:29:27 - qBittorrent is now ready to exit
+(N) 2024-09-22T13:29:53 - qBittorrent v4.6.7 started
+(N) 2024-09-22T13:29:53 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-22T13:29:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-22T13:29:53 - Peer ID: "-qB4670-"
+(I) 2024-09-22T13:29:53 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-22T13:29:53 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-22T13:29:53 - Local Peer Discovery support: ON
+(I) 2024-09-22T13:29:53 - Peer Exchange (PeX) support: ON
+(I) 2024-09-22T13:29:53 - Anonymous mode: OFF
+(I) 2024-09-22T13:29:53 - Encryption support: ON
+(I) 2024-09-22T13:29:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-22T13:29:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-22T13:29:53 - Successfully listening on IP. IP: "172.18.0.7". Port: "TCP/51445"
+(I) 2024-09-22T13:29:53 - Successfully listening on IP. IP: "172.18.0.7". Port: "UDP/51445"
+(I) 2024-09-22T13:29:53 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-22T13:29:53 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-22T13:29:53 - UPnP/NAT-PMP support: ON
+(I) 2024-09-22T13:29:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-22T13:29:54 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-22T13:29:54 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-22T13:29:54 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-22T13:29:54 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-22T13:29:57 - WebAPI login success. IP: ::ffff:172.18.0.5
+(N) 2024-09-22T13:29:58 - WebAPI login success. IP: ::ffff:172.18.0.6
+(W) 2024-09-22T13:32:30 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-22T13:32:30 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-22T13:34:15 - Added new torrent. Torrent: "Oppenheimer.2023.1080p.Bluray.REMUX.AVC.DTS-HD.MA.5.1-GHD[TGx]"
+(N) 2024-09-22T13:34:22 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-22T13:34:28 - Torrent paused. Torrent: "Oppenheimer.2023.1080p.Bluray.REMUX.AVC.DTS-HD.MA.5.1-GHD[TGx]"
+(N) 2024-09-22T13:37:17 - Added new torrent. Torrent: "Oppenheimer (2023) NEW ENG 1080p.MP4.InfosPack022"
+(N) 2024-09-22T13:37:55 - Added new torrent. Torrent: "Oppenheimer.2023.2160p.10bit.HDR.BluRay.6CH.x265.HEVC-PSA"
+(N) 2024-09-22T13:39:31 - Removed torrent and deleted its content. Torrent: "Oppenheimer (2023) NEW ENG 1080p.MP4.InfosPack022"
+(N) 2024-09-22T13:39:31 - Removed torrent and deleted its content. Torrent: "Oppenheimer.2023.2160p.10bit.HDR.BluRay.6CH.x265.HEVC-PSA"
+(N) 2024-09-22T13:39:34 - Removed torrent and deleted its content. Torrent: "Oppenheimer.2023.1080p.Bluray.REMUX.AVC.DTS-HD.MA.5.1-GHD[TGx]"
+(N) 2024-09-22T14:36:13 - qBittorrent termination initiated
+(N) 2024-09-22T14:36:13 - qBittorrent is now ready to exit
+(N) 2024-09-22T14:37:15 - qBittorrent v4.6.7 started
+(N) 2024-09-22T14:37:15 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-22T14:37:15 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-22T14:37:15 - Peer ID: "-qB4670-"
+(I) 2024-09-22T14:37:15 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-22T14:37:15 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-22T14:37:15 - Local Peer Discovery support: ON
+(I) 2024-09-22T14:37:15 - Peer Exchange (PeX) support: ON
+(I) 2024-09-22T14:37:15 - Anonymous mode: OFF
+(I) 2024-09-22T14:37:15 - Encryption support: ON
+(I) 2024-09-22T14:37:15 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-22T14:37:15 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-22T14:37:15 - Successfully listening on IP. IP: "172.18.0.6". Port: "TCP/51445"
+(I) 2024-09-22T14:37:15 - Successfully listening on IP. IP: "172.18.0.6". Port: "UDP/51445"
+(I) 2024-09-22T14:37:15 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-22T14:37:15 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-22T14:37:15 - UPnP/NAT-PMP support: ON
+(I) 2024-09-22T14:37:15 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-22T14:37:15 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-22T14:37:15 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-22T14:37:15 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-22T14:37:15 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-22T14:37:19 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2024-09-22T14:37:19 - WebAPI login success. IP: ::ffff:172.18.0.4
+(W) 2024-09-22T14:39:51 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2024-09-22T14:39:51 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2024-09-22T14:43:03 - Added new torrent. Torrent: "Evolution (2001) David Duchovny .Sci-Fi Comedy 1080p.WEBRip.x264"
+(N) 2024-09-22T14:43:11 - WebAPI login success. IP: ::ffff:192.168.29.11
+(N) 2024-09-22T14:52:53 - Torrent paused. Torrent: "Evolution (2001) David Duchovny .Sci-Fi Comedy 1080p.WEBRip.x264"
+(N) 2024-09-22T14:54:54 - Added new torrent. Torrent: "South Park Bigger Longer And Uncut 1999 1080p BluRay HEVC x265 5.1 BONE"
+(N) 2024-09-22T14:56:11 - Torrent download finished. Torrent: "South Park Bigger Longer And Uncut 1999 1080p BluRay HEVC x265 5.1 BONE"
+(N) 2024-09-22T14:57:15 - Torrent paused. Torrent: "South Park Bigger Longer And Uncut 1999 1080p BluRay HEVC x265 5.1 BONE"
+(N) 2024-09-22T14:57:15 - Torrent reached the seeding time limit. Torrent paused. Torrent: "South Park Bigger Longer And Uncut 1999 1080p BluRay HEVC x265 5.1 BONE".
+(N) 2024-09-22T14:57:49 - Removed torrent and deleted its content. Torrent: "South Park Bigger Longer And Uncut 1999 1080p BluRay HEVC x265 5.1 BONE"
+(N) 2024-09-22T15:06:43 - Added new torrent. Torrent: "Chernobyl.S01.720p.BluRay.X264-REWARD"
+(N) 2024-09-22T15:29:36 - Removed torrent and deleted its content. Torrent: "Chernobyl.S01.720p.BluRay.X264-REWARD"
+(N) 2024-09-22T15:56:55 - qBittorrent termination initiated
+(N) 2024-09-22T16:01:20 - qBittorrent v4.6.7 started
+(N) 2024-09-22T16:01:20 - Using config directory: /app/qBittorrent/config
+(N) 2024-09-22T16:01:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:51445,[::]:51445"
+(I) 2024-09-22T16:01:20 - Peer ID: "-qB4670-"
+(I) 2024-09-22T16:01:20 - HTTP User-Agent: "qBittorrent/4.6.7"
+(I) 2024-09-22T16:01:20 - Distributed Hash Table (DHT) support: ON
+(I) 2024-09-22T16:01:20 - Local Peer Discovery support: ON
+(I) 2024-09-22T16:01:20 - Peer Exchange (PeX) support: ON
+(I) 2024-09-22T16:01:20 - Anonymous mode: OFF
+(I) 2024-09-22T16:01:20 - Encryption support: ON
+(I) 2024-09-22T16:01:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/51445"
+(I) 2024-09-22T16:01:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/51445"
+(I) 2024-09-22T16:01:20 - Successfully listening on IP. IP: "172.18.0.5". Port: "TCP/51445"
+(I) 2024-09-22T16:01:20 - Successfully listening on IP. IP: "172.18.0.5". Port: "UDP/51445"
+(I) 2024-09-22T16:01:20 - Successfully listening on IP. IP: "::1". Port: "TCP/51445"
+(I) 2024-09-22T16:01:20 - Successfully listening on IP. IP: "::1". Port: "UDP/51445"
+(I) 2024-09-22T16:01:20 - UPnP/NAT-PMP support: ON
+(N) 2024-09-22T16:01:20 - Restored torrent. Torrent: "Evolution (2001) David Duchovny .Sci-Fi Comedy 1080p.WEBRip.x264"
+(I) 2024-09-22T16:01:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sun Sep 1 06:17:20 2024.
+(N) 2024-09-22T16:01:20 - Using custom WebUI. Location: "/app/vuetorrent".
+(W) 2024-09-22T16:01:20 - Couldn't load WebUI translation for selected locale (en).
+(N) 2024-09-22T16:01:20 - WebUI: Now listening on IP: *, port: 8080
+(I) 2024-09-22T16:01:21 - Detected external IP. IP: "49.36.57.158"
+(N) 2024-09-22T16:01:24 - WebAPI login success. IP: ::ffff:172.18.0.2
+(N) 2024-09-22T16:01:24 - WebAPI login success. IP: ::ffff:172.18.0.3
+(N) 2024-09-22T16:02:30 - qBittorrent termination initiated
+(N) 2024-09-22T16:02:30 - qBittorrent is now ready to exit

@@ -1,0 +1,15 @@
+{"level":"info","message":"Commit Tag: 1.9.2","timestamp":"2024-09-22T07:59:57.949Z"}
+{"level":"info","message":"Starting Overseerr version 1.9.2","timestamp":"2024-09-22T07:59:58.687Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-09-22T08:00:00.361Z"}
+{"label":"Server","level":"info","message":"Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet","timestamp":"2024-09-22T08:00:00.370Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-09-22T08:00:00.553Z"}
+{"level":"info","message":"Commit Tag: 1.9.2","timestamp":"2024-09-22T09:07:19.296Z"}
+{"level":"info","message":"Starting Overseerr version 1.9.2","timestamp":"2024-09-22T09:07:20.053Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-09-22T09:07:21.735Z"}
+{"label":"Server","level":"info","message":"Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet","timestamp":"2024-09-22T09:07:21.741Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-09-22T09:07:21.889Z"}
+{"level":"info","message":"Commit Tag: 1.9.2","timestamp":"2024-09-22T10:31:24.669Z"}
+{"level":"info","message":"Starting Overseerr version 1.9.2","timestamp":"2024-09-22T10:31:25.362Z"}
+{"label":"Notifications","level":"info","message":"Registered notification agents","timestamp":"2024-09-22T10:31:26.878Z"}
+{"label":"Server","level":"info","message":"Skipping starting the scheduled jobs as we have no Plex/Jellyfin/Emby servers setup yet","timestamp":"2024-09-22T10:31:26.883Z"}
+{"label":"Server","level":"info","message":"Server ready on port 5055","timestamp":"2024-09-22T10:31:27.027Z"}

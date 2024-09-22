@@ -1,0 +1,11 @@
+{
+    "prowlarr": {
+        "save_path": ""
+    },
+    "radarr": {
+        "save_path": "movies"
+    },
+    "tv-sonarr": {
+        "save_path": "tv"
+    }
+}

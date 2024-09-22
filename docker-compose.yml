@@ -1,0 +1,154 @@
+services:
+  radarr:
+    container_name: radarr
+    image: ghcr.io/hotio/radarr:latest
+    restart: unless-stopped
+    logging:
+      driver: json-file
+    ports:
+      - 7878:7878
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./config/radarr:/config
+      - /media/library/arr:/data
+  sonarr:
+    container_name: sonarr
+    image: ghcr.io/hotio/sonarr:latest
+    restart: unless-stopped
+    logging:
+      driver: json-file
+    ports:
+      - 8989:8989
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./config/sonarr:/config
+      - /media/library/arr:/data
+  bazarr:
+    container_name: bazarr
+    image: ghcr.io/hotio/bazarr:latest
+    restart: unless-stopped
+    logging:
+      driver: json-file
+    ports:
+      - 6767:6767
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Kolkata
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./config/bazarr:/config
+      - /media/library/arr/media:/data/media
+  # sabnzbd:
+  #   container_name: sabnzbd
+  #   image: ghcr.io/hotio/sabnzbd:latest
+  #   restart: unless-stopped
+  #   logging:
+  #     driver: json-file
+  #   ports:
+  #     - 8080:8080
+  #     - 9090:9090
+  #   environment:
+  #     - PUID=1000
+  #     - PGID=1000
+  #     - TZ=Asia/Kolkata
+  #   volumes:
+  #     - /etc/localtime:/etc/localtime:ro
+  #     - ./config/sabnzbd:/config
+  #     - ./data/usenet:/data/usenet:rw
+  # jellyfin:
+  #   container_name: jellyfin
+  #   image: jellyfin/jellyfin
+  #   restart: unless-stopped
+  #   user: 1000:1000
+  #   network_mode: 'host'
+  #   devices:
+  #     - /dev/dri:/dev/dri
+  #   environment:
+  #     - PUID=1000
+  #     - PGID=1000
+  #     - UMASK=002
+  #     - TZ=Asia/Kolkata
+  #   volumes:
+  #     - ./cache/jellyfin:/cache
+  #     - /etc/localtime:/etc/localtime:ro
+  #     - ./config/jellyfin:/config
+  #     - /media/library/arr/media:/media
+  #   # Optional - may be necessary for docker healthcheck to pass if running in host network mode
+  #   extra_hosts:
+  #     - 'host.docker.internal:host-gateway'
+  qbittorrent:
+    container_name: qbittorrent
+    image: ghcr.io/hotio/qbittorrent
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+      - WEBUI_PORTS=8080/tcp,8080/udp
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./config/qbittorrent:/config
+      - /media/library/arr/torrents:/data/torrents
+  jellyseerr:
+    container_name: jellyseerr
+    image: ghcr.io/hotio/jellyseerr
+    restart: unless-stopped
+    ports:
+      - "5055:5055"
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+    volumes:
+      - ./config/jellyseer:/config
+  prowlarr:
+    container_name: prowlarr
+    image: ghcr.io/hotio/prowlarr
+    restart: unless-stopped
+    ports:
+      - "9696:9696"
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - UMASK=002
+      - TZ=Asia/Kolkata
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./config/prowlarr:/config
+  dashy:
+    # To build from source, replace 'image: lissy93/dashy' with 'build: .'
+    # build: .
+    image: lissy93/dashy
+    container_name: dashy
+    # Pass in your config file below, by specifying the path on your host machine
+    volumes:
+      - ./config/dashy:/app/user-data
+    ports:
+      - 4000:8080
+    # Set any environmental variables
+    environment:
+      - NODE_ENV=production
+      - UID=1000
+      - GID=1000
+    # Specify restart policy
+    restart: unless-stopped
+    # Configure healthchecks
+    healthcheck:
+      test: ['CMD', 'node', '/app/services/healthcheck']
+      interval: 1m30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
